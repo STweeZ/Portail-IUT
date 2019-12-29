@@ -1,0 +1,35 @@
+body{
+	background-color: #3396DE;
+}
+#logo{
+	max-width: 4.5rem;
+}
+.PHeight{
+	min-height: 82vh;
+}
+.bott{
+	color: white;
+}
+#RS1{
+	max-width: 2.0rem;
+	margin-right: 0.5rem;
+}
+#RS2{
+	max-width: 2.0rem;
+	margin-left: 0.5rem;
+	margin-right: 1rem;
+}
+#BTT{
+	max-width: 2.0rem;
+	margin-left: 1rem;
+}
+#mail{
+	color: #3396DE;
+}
+.droits{
+	color: #3396DE;
+}
+.photo_droite {
+    float: right;
+    padding-left: 5px;
+}

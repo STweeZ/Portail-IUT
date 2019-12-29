@@ -1,0 +1,39 @@
+body{
+	background-color: #3396DE;
+}
+#logo{
+	max-width: 4.5rem;
+}
+.PHeight{
+	min-height: 70vh;
+}
+.langue{
+	margin-top: -0.25rem !important;
+	min-width: 50%;
+	max-width: 100%;
+}
+.bott{
+	color: white;
+}
+#RS1{
+	max-width: 2.0rem;
+	margin-right: 0.5rem;
+}
+#RS2{
+	max-width: 2.0rem;
+	margin-left: 0.5rem;
+	margin-right: 1rem;
+}
+#BTT{
+	max-width: 2.0rem;
+	margin-left: 1rem;
+}
+#mail{
+	color: #3396DE;
+}
+.lng:hover{
+	filter: contrast(1.5);
+}
+.droits{
+	color: #3396DE;
+}
